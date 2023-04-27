@@ -1,11 +1,5 @@
 # Eye-Tracking Feature Prediction
-This repo contains the code for the experiments presented in the following paper:  
-Nora Hollenstein, Federico Pirovano, Lena Jäger, Ce Zhang & Lisa Beinborn. "Multilingual language models predict human reading behavior". _NAACL 2021_.
-
-The same code is also used in this follow-up paper:  
-Nora Hollenstein, Itziar Gonzalez-Dios, Lisa Beinborn & Lena Jäger. "Patterns of Text Readability in Human and Predicted Eye Movements". _CogALex 2022_.  
-See the details in the folder `cogalex2022/`.
-
+Parts of this code are based on the "multilingual-gaze" repository by N. Hollenstein.
 
 ## Folders
 The repository is divided into three folders:  
