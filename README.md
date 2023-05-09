@@ -1,5 +1,5 @@
 # Eye-Tracking Feature Prediction
-Parts of this code are based on the "multilingual-gaze" repository by N. Hollenstein.
+Code based on the "multilingual-gaze" repository by N. Hollenstein.
 
 ## Folders
 The repository is divided into three folders:  
